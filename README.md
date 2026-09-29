@@ -8,10 +8,16 @@ The analysis was performed using IBM SPSS Statistics and combines statistical hy
 **OBJECTIVES**
 
 1.To examine the association between customer contract type and churn.
+
 2.To compare monthly charges between churned and retained customers.
+
 3.To analyze customer retention duration across different contract types using survival analysis.
+
 4.To identify important factors associated with the likelihood of customer churn using binary logistic regression.
+
 5.To evaluate the discriminatory performance of the logistic regression model using ROC curve and AUC analysis.
+
 6.To investigate the relationship between contract commitment and technical support adoption.
+
 7.To identify customer characteristics and service patterns associated with higher churn risk.
 
