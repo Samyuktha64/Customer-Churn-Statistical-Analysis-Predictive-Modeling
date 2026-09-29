@@ -3,7 +3,7 @@ Customer churn refers to customers discontinuing their subscription or service. 
 
 This project analyzes the Orange Telecom Customer Churn dataset, which contains customer activity and service-related characteristics along with a churn indicator showing whether a customer discontinued the service. The dataset is divided into churn-80 and churn-20 subsets, with the larger dataset intended for model development and the smaller dataset for final model evaluation.
 
-The analysis was performed using IBM SPSS Statistics and combines statistical hypothesis testing, survival analysis, and binary logistic regression to examine factors associated with customer churn and evaluate the discriminatory performance of the predictive model.
+The analysis was performed using **IBM SPSS Statistics** and combines statistical hypothesis testing, survival analysis, and binary logistic regression to examine factors associated with customer churn and evaluate the discriminatory performance of the predictive model.
 
 **2. OBJECTIVES**
 
@@ -23,8 +23,8 @@ The analysis was performed using IBM SPSS Statistics and combines statistical hy
 
 **3. DATASET: Telecom Customer Churn Dataset**
 
-The dataset contains customer-level information related to customer activity, services, billing, contract characteristics, and churn status.
-
+The dataset contains customer-level information related to** customer activity, services, billing, contract characteristics, and churn status**.
+**
 The available dataset consists of two subsets:
 
 1.churn-80: Used for model development and cross-validation.
