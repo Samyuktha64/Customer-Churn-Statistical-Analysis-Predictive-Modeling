@@ -88,7 +88,7 @@ A categorical association analysis was performed to examine the relationship bet
 
 **5. RESULTS**
 
-1. Chi-Square: Contract type was significantly associated with churn (χ² = 1184.60, p < .001; Cramér’s V = 0.410).
+1.Chi-Square: Contract type was significantly associated with churn (χ² = 1184.60, p < .001; Cramér’s V = 0.410).
    
 2.t-Test: Churned customers had significantly higher monthly charges ($74.44) than retained customers ($61.27) (p < .001).
 
