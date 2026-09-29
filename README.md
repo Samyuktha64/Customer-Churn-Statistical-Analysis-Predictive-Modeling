@@ -87,6 +87,7 @@ ROC curve and AUC
 A categorical association analysis was performed to examine the relationship between contract commitment level and technical support adoption, with Bonferroni-adjusted pairwise comparisons.
 
 **5. RESULTS**
+
 1. Chi-Square: Contract type was significantly associated with churn (χ² = 1184.60, p < .001; Cramér’s V = 0.410).
    
 2.t-Test: Churned customers had significantly higher monthly charges ($74.44) than retained customers ($61.27) (p < .001).
@@ -100,6 +101,7 @@ A categorical association analysis was performed to examine the relationship bet
 6.Technical Support: Contract type was significantly associated with technical support adoption (χ² = 1543.47, p < .001; Cramér’s V = 0.331).
 
 **6. INTERPRETATION**
+
 1.Contract type was significantly associated with customer churn.
 
 2.Customers who churned had higher average monthly charges than retained customers.
@@ -117,6 +119,7 @@ A categorical association analysis was performed to examine the relationship bet
 8.Technical support adoption differed significantly across contract commitment levels.
 
 **7. CONCLUSION**
+
 This project demonstrates the application of statistical methods and predictive modeling to customer churn analysis. The results show that contract type, customer tenure, monthly charges, and customer characteristics are associated with churn behavior.
 
 The survival analysis demonstrated substantial differences in retention duration across contract types, while logistic regression identified significant predictors of churn. The ROC analysis further showed that the predictive model achieved an AUC of 0.840, indicating good discriminatory ability.
