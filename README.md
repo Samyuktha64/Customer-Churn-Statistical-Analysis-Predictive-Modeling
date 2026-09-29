@@ -5,7 +5,7 @@ This project analyzes the Orange Telecom Customer Churn dataset, which contains 
 
 The analysis was performed using IBM SPSS Statistics and combines statistical hypothesis testing, survival analysis, and binary logistic regression to examine factors associated with customer churn and evaluate the discriminatory performance of the predictive model.
 
-OBJECTIVES
+**OBJECTIVES**
 
 1.To examine the association between customer contract type and churn.
 2.To compare monthly charges between churned and retained customers.
